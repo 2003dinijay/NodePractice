@@ -13,4 +13,4 @@ console.log(base);
 
 //gives the absolute path
 const absolute= path.resolve(__dirname,'content','subfolder','test.txt'); //__dirname gives the current directory
-console.log(absolute);
+console.log(absolute);//gives the absolute path from root directory

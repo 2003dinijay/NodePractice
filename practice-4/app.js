@@ -14,3 +14,4 @@ writeFileSync(
 //flag a is for append if file already exists
 
 //if flag is "a", it will append the content to the existing file instead of overwriting it.
+
